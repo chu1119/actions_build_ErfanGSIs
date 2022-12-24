@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://cloud189-henan-person.oos-hazz.ctyunapi.cn/6ae475e0-9441-41fa-9c4d-507341cfc9a7?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=532482dfdc85e5d60592&x-amz-userLevel=0&x-amz-UID=801096516&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22OnePlus3TOxygen_28_OTA_086_all_1911042121_9156030ead54e.zip%22%3Bfilename*%3DUTF-8%27%27OnePlus3TOxygen_28_OTA_086_all_1911042121_9156030ead54e.zip&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D51200%2Cconcurrency%3D12&Signature=HywyRP%2BZUne%2ByijkXt5zRKi5IVw%3D&x-amz-SHID=1244213206451&Expires=1671891071&x-amz-FSIZE=1629089859&x-amz-UFID=22538141535462765
   ROM_NAME: OxygenOS
-  BUILD_TYPE: a
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
